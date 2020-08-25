@@ -29,7 +29,7 @@
     "babel-runtime": "^6.23.0",
     "braintree-web": "^2.*",
     "card-js": "^1.0.13",
-    "highcharts": "^5.0.12",
+    "highcharts": "^8.2.0",
     "jquery-countdown": "^2.2.0",
     "quill": "^1.2.6",
     "selectize": "^0.12.4",
